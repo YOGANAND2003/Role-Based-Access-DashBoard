@@ -5,8 +5,8 @@ A full-stack application demonstrating Role-Based Access Control with Node.js, E
 ## Project Structure
 
 ```
-├── client/             # Frontend React application
-└── server/            # Backend Node.js application
+├─  Frontend/             # Frontend React application
+└── Backend/            # Backend Node.js application
 ```
 
 ## Backend Implementation
